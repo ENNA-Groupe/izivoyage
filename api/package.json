@@ -1,0 +1,11 @@
+{
+  "name": "izivoyage",
+  "version": "1.0.0",
+  "description": "backend de izivoyage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "enna",
+  "license": "ISC"
+}
